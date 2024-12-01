@@ -1,0 +1,18 @@
+{
+  "name": "random-num",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^6.0.1"
+  },
+  "dependencies": {
+    "@mdui/icons": "^1.0.2",
+    "mdui": "^2.1.3"
+  }
+}
